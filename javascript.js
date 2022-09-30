@@ -59,7 +59,6 @@ form.addEventListener("submit",(e)=>{
     newFood()
     item()
     addFood()
-    alert("acti")
 })
 function newFood (){
     let Nfood= {
